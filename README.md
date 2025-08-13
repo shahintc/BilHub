@@ -15,6 +15,6 @@
 - **Tools**: Picasso (images) | OkHttp (networking)  
 
 ## Demo & Documentation  
-- ▶️ [Demo Video](https://www.youtube.com/watch?v=J15q4ea73Vc&t=3s)  
-- 📄 [Design & UML](https://docs.google.com/document/d/1IRnAY1OPxd-MCqCD_r9-OMOzHXN-pvUDNx9DOCVAEXA/edit?tab=t.0)  
+- [Demo Video](https://www.youtube.com/watch?v=J15q4ea73Vc&t=3s)  
+- [Design & UML](https://docs.google.com/document/d/1IRnAY1OPxd-MCqCD_r9-OMOzHXN-pvUDNx9DOCVAEXA/edit?tab=t.0)  
 
